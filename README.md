@@ -13,9 +13,8 @@
 ## 🌍 Live Demo
 
 🔗 **Live Website:**  
-👉 https://your-vercel-link.vercel.app  
+👉 [https://fast-cms-jade.vercel.app/](https://fast-cms-jade.vercel.app/) 
 
-*(Replace with your actual deployed link)*
 
 ---
 
